@@ -1,10 +1,9 @@
 # PharmaDiff: Pharmacophore-Conditioned Diffusion Model for De Novo Drug Design
 
-[Link to the paper]()
+[Link to the paper](https://www.arxiv.org/abs/2505.10545)
 
-Authors
+Authors: Amira Alakhdar, Barnabas Poczos, Newell Washburn
 
-Neurips 2025
 
 The authors of this code would like to thank the authors of [MiDi](https://arxiv.org/abs/2302.09048) for making their code publicly available, which served as a valuable reference for this work.
 
