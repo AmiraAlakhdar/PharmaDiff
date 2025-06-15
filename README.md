@@ -67,7 +67,7 @@ Run:
 ## Checkpoints
 
 QM9:
-  - command: `python3 main.py dataset=qm9 dataset.remove_h=True +experiment=qm9_with_h_adaptive`
+  - command: `python3 main.py dataset=qm9 dataset.remove_h=True +experiment=qm9_no_h_adaptive`
   - checkpoint: https://drive.google.com/file/d/1dnaMjC2BukL2or1Ur75-QddpKA9YIp_5/view?usp=sharing
 
 
