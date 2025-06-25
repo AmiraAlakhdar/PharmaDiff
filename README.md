@@ -36,7 +36,7 @@ This code was tested with PyTorch 2.0.1, cuda 11.8 and torch_geometric 2.3.1 on 
 ## Datasets
 
   - QM9 should download automatically
-  - For GEOM, download the data  from this [link](https://drive.google.com/file/d/1ZdIXiINLmRD6MnbnCKkjvRxwZN8rrutH/view?usp=sharing) and put in `PharmaDiff/data/geom/raw/`:
+  - For GEOM, download the raw and processed data from this [link](https://zenodo.org/records/15740452?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjEwNmM2ODA2LWI4OTItNDBlYS1iNjFhLTRkM2U1NDI5MzkxNCIsImRhdGEiOnt9LCJyYW5kb20iOiJjYWNhNWI1NWZjYWRiZmNkNmM5MDIxNGI1ZmU5NTE2YyJ9.km6Dux9U4G9nsk3jcyKCavIbQA7Ww5FjlaTHHCZDSmNc-4Fm-gPsyRDD7LaIKpYOGg6wl035aXiTTCnMiP_3Vg) and put in `PharmaDiff/data/`:
 
 ## Training:
 
